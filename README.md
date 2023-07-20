@@ -1,3 +1,3 @@
 # contextual
 Name:Anamika Tiwari
-College:SJB Institute of trchnology,Bangalore
+College:SJB Institute of technology,Bangalore
